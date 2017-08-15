@@ -181,3 +181,6 @@
 /usr/bin/xzmore:                                 Bourne-Again shell script, ASCII text executable
 /usr/bin/zipgrep:                                POSIX shell script, ASCII text executable
 /usr/bin/zxpdf:                                  POSIX shell script, ASCII text executable
+[:This is [
+While this is ]
+And the - is here
